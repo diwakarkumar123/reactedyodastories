@@ -2,6 +2,7 @@
   "name": "edyodastories",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://diwakarkumar123.github.io/reactedyodastories",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
