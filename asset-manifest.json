@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paneldemo/static/css/main.a0009b36.css",
+    "main.js": "/paneldemo/static/js/main.cbdba74c.js",
+    "static/js/787.c1068d8a.chunk.js": "/paneldemo/static/js/787.c1068d8a.chunk.js",
+    "index.html": "/paneldemo/index.html",
+    "main.a0009b36.css.map": "/paneldemo/static/css/main.a0009b36.css.map",
+    "main.cbdba74c.js.map": "/paneldemo/static/js/main.cbdba74c.js.map",
+    "787.c1068d8a.chunk.js.map": "/paneldemo/static/js/787.c1068d8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0009b36.css",
+    "static/js/main.cbdba74c.js"
+  ]
+}
